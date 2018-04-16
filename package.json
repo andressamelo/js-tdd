@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JS com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andressamelo/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Andressa Melo <contato@andressamelo.com.br> (http://www.andressamelo.com.br/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andressamelo/js-tdd/issues"
+  },
+  "homepage": "https://github.com/andressamelo/js-tdd#readme"
+}
